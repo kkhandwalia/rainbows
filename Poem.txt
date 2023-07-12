@@ -1,4 +1,4 @@
-A poem on Rainbows and Unicorns
+A poem on Rainbows and Unicorns and Ponies
 
 Violet
 Indigo
@@ -7,5 +7,6 @@ Unicorn
 Green
 Yellow
 Red
+Ponies
 
 End
